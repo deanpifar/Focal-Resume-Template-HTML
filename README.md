@@ -1,6 +1,6 @@
 # Focal Resume Template HTML
 
-Demo: https://deanp.eu/psdtohtml/4/
+Demo: https://dev.deanp.eu/psdtohtml/4/
 
 ## Credits:
 
